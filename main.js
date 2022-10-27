@@ -21,9 +21,9 @@ const fallout4 = new producto (6, "Fallout 4", 2999, "img/juegos/fallout-4.jpg")
 const farming15 = new producto (7, "Farming Simulator 15", 1999, "img/juegos/farming-15.jpg")
 const fifa22 = new producto (8, "FIFA 22", 4999, "img/juegos/fifa-22.jpg")
 const haloInfinite = new producto (9, "Halo Infinite", 5999, "img/juegos/halo-infinite.jpg")
-const Hitman3 = new producto (10, "Hitman 3", 3999, "img/juegos/hitman-3.jpg")
+const Hitman3 = new producto (10, "Hitman 3", 3999, "img/juegos/Hitman-3.jpg")
 const forzaHorizon5 = new producto (11, "Forza Horizon 5", 6999, "img/juegos/horizon-5.jpg")
-const valhalla = new producto (12, "Assassins Creed: Valhalla", 4999, "img/juegos/valhalla.jpg")
+const valhalla = new producto (12, "Assassins Creed: Valhalla", 4999, "img/juegos/Valhalla.jpg")
 
 // Array de productos
 
